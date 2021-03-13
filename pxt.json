@@ -1,0 +1,22 @@
+{
+    "name": "机器人前进后退左右转",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "makebit": "github:zhuning239/makebit#a63cb2f33b371262d59d350789d6a011d5041b1f",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
