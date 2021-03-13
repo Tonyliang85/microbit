@@ -59,9 +59,9 @@ while (!(input.buttonIsPressed(Button.A))) {
 }
 basic.forever(function () {
     前进()
-    basic.pause(2000)
+    basic.pause(5000)
     后退()
-    basic.pause(2000)
+    basic.pause(5000)
     左转()
     basic.pause(2000)
     右转()
